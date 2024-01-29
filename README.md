@@ -24,4 +24,4 @@ The graphical interface provides an interactive platform to simulate the behavio
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/bankers-algorithm-system-management.git
-```
+   ```
